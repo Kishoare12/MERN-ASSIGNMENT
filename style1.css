@@ -1,0 +1,27 @@
+.container{
+    color:rgb(100, 165, 150);
+    background-color: burlywood;
+    background-image: url(./assetss/website-background-design-guide-768x492.png);
+    height: 1200px;
+    background-repeat: no repeat;
+    background-size: cover;
+    opacity: 0.9;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+
+}
+
+.container2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid red;
+    margin: 30px;
+}
+
